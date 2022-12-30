@@ -6,5 +6,5 @@ int main()
     for(i=1;i<=n;i++)
     {
         printf("%d ",3*i);
-    }   
+    }
 }
